@@ -1,0 +1,24 @@
+[submodule "src/Orchard.Web/Modules/Orchard.Forms"]
+	path = src/Orchard.Web/Modules/Orchard.Forms
+	url = git://github.com/parallel/Orchard.Forms
+[submodule "src/Orchard.Web/Modules/Orchard.Rules"]
+	path = src/Orchard.Web/Modules/Orchard.Rules
+	url = git://github.com/parallel/Orchard.Rules
+[submodule "src/Orchard.Web/Modules/Orchard.Tokens"]
+	path = src/Orchard.Web/Modules/Orchard.Tokens
+	url = git://github.com/parallel/Orchard.Tokens
+[submodule "src/Orchard.Web/Modules/Orchard.TaskLease"]
+	path = src/Orchard.Web/Modules/Orchard.TaskLease
+	url = git://github.com/parallel/Orchard.TaskLease
+[submodule "src/Orchard.Web/Modules/Orchard.Fields"]
+	path = src/Orchard.Web/Modules/Orchard.Fields
+	url = git://github.com/parallel/Orchard.Fields
+[submodule "src/Orchard.Web/Modules/Orchard.Autoroute"]
+	path = src/Orchard.Web/Modules/Orchard.Autoroute
+	url = git://github.com/parallel/Orchard.Autoroute
+[submodule "src/Orchard.Web/Modules/Orchard.Alias"]
+	path = src/Orchard.Web/Modules/Orchard.Alias
+	url = git://github.com/parallel/Orchard.Alias
+[submodule "src/Orchard.Web/Modules/Orchard.Projections"]
+	path = src/Orchard.Web/Modules/Orchard.Projections
+	url = git://github.com/parallel/Orchard.Projections
