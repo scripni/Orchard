@@ -60,3 +60,9 @@ TestResults
 *.ReSharper
 
 _ReSharper*
+
+# Orchard
+
+artifacts
+build
+buildtasks
